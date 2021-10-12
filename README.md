@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammetandic
 - 👀 I’m interested in C# and Javascript
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently learning Javascript frameworks especially React
 - 💞️ I’m not looking to collaborate on 
 - 📫 How to reach me m_andic@hotmail.com
 
