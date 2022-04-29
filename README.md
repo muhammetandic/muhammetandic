@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @muhammetandic
-- 👀 I’m interested in C# and Javascript
-- 🌱 I’m currently learning Javascript frameworks especially React
+- 👀 I’m interested in C# and .Net Core technologies in backend development
+- 👀 I'm also interested in Javascript and Javascript frameworks especially React in frontend development
+- 🌱 I’m currently learning Javascript frameworks especially Svelte
 - 💞️ I’m not looking to collaborate on 
 - 📫 How to reach me m_andic@hotmail.com
 
