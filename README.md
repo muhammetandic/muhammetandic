@@ -3,7 +3,7 @@
 - 👀 I'm also interested in Javascript and Javascript frameworks especially React in frontend development
 - 🌱 I’m currently learning Javascript frameworks especially Svelte
 - 💞️ I’m not looking to collaborate on 
-- 📫 How to reach me m_andic@hotmail.com
+- 📫 How to reach me muhammet.andic@gmail.com
 
 <!---
 muhammetandic/muhammetandic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
