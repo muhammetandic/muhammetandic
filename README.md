@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @muhammetandic
-- 👀 I’m interested in C# and .Net Core technologies in backend development
-- 👀 I'm also interested in Javascript and Javascript frameworks especially React in frontend development
-- 🌱 I’m currently learning Javascript frameworks especially Svelte
-- 💞️ I’m not looking to collaborate on 
-- 📫 How to reach me muhammet.andic@gmail.com
+👋 Hi, I’m **@muhammetandic**
+
+💻 I’m an **expert React and frontend developer** passionate about building modern, high-performance web applications with clean, scalable architectures.
+
+⚙️ On the backend side, I’m a **mid-level JavaScript developer** experienced with frameworks such as **Express**, **NestJS**, and **Hono**.
+
+🧠 I also have strong secondary skills in **C#** and **.NET Core**, which help me bridge the gap between frontend and backend systems when needed.
+
+🌱 I’m currently learning **Svelte**, exploring its reactive design and lightweight component model.
+
+📫 You can reach me at **[muhammet.andic@gmail.com](mailto:muhammet.andic@gmail.com)**
+
 
 <!---
 muhammetandic/muhammetandic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
